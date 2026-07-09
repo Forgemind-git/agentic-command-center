@@ -41,7 +41,7 @@ There are two ways, depending on how you work.
    ```
 2. Start Claude Code and run:
    ```
-   /build-command-center
+   /agentic-command-center
    ```
 3. Answer its questions and let it walk you through each phase.
 

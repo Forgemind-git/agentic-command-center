@@ -1,10 +1,9 @@
 ---
 name: agentic-command-center
 description: A blueprint for building your own AI command center — one chat or voice interface that runs your whole business by routing to internal systems you own. Use when someone wants to design internal dashboards, connect the tools they already use, expose those systems over MCP, and unify everything under a single agentic command layer.
-trigger: /build-command-center
 ---
 
-# /build-command-center
+# /agentic-command-center
 
 A guided blueprint for building an **AI command center** for a business: a single place where you (or your team) type or speak a request — *"how did sales do this week?"*, *"turn on the shop lights"*, *"draft a reply to that customer"* — and one AI figures out which of your systems to touch and does it.
 
