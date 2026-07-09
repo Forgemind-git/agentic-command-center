@@ -71,6 +71,43 @@ The hardest part of Phase 1 is building your first internal system. So we made o
 
 ---
 
+## 🎓 Want to learn this properly?
+
+This blueprint tells you **what** to build and **in what order**. If you want to learn **how** — hands-on, from zero — that's exactly what our course was built for.
+
+<p align="center">
+  <a href="https://forgemind.in/course/applied-ai-with-claude">
+    <img src="assets/course-applied-ai-with-claude.jpg" alt="Applied AI with Claude — in Tamil" width="720"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://forgemind.in/course/applied-ai-with-claude"><strong>👉 Click here to see the details of the course</strong></a>
+</p>
+
+### Applied AI with Claude — taught in Tamil
+
+A **6-week, hands-on** program that takes you from "what even is an LLM?" to **shipping a deployed, full-stack AI system you built yourself.** No prior coding background assumed — we start at the foundations and don't leave anyone behind.
+
+It follows the same arc as this blueprint, but with a teacher, a cohort, and real projects at every step:
+
+| Week | What you'll learn |
+|:--|:--|
+| **1** | Foundations — how AI actually works, and running AI locally |
+| **2** | Claude in depth — the interface, prompting mastery, context engineering |
+| **3** | Grounding & building — research, projects, artifacts, dashboards, skills |
+| **4** | **Agents & MCP** — build your own MCP server, compose and run agents |
+| **5** | **Claude Code** — APIs, frontend, build and host a dashboard *live* |
+| **6** | Backend, automation, deploy — then ship your **final capstone** |
+
+**What you get:** 19 modules · 11 live sessions · **16 hands-on projects** that become your GitHub portfolio · a peer-reviewed capstone — *your own deployed AI solution*, end to end.
+
+If Phases 3 and 4 of this blueprint (MCP servers, agent orchestration, a command layer) are where you feel the gap, **Weeks 4–6 are written for exactly that gap.** You leave with the skill to build the command center yourself — not a template, the ability.
+
+**➡️ [forgemind.in/course/applied-ai-with-claude](https://forgemind.in/course/applied-ai-with-claude)**
+
+---
+
 <p align="center">
   <strong>Built by ForgeMind</strong>
 </p>
