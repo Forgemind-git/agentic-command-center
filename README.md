@@ -5,7 +5,7 @@
 <h1 align="center">agentic-command-center</h1>
 
 <p align="center">
-  <strong>A Claude skill that guides you, step by step, through building your own AI command center for your business.</strong>
+  <strong>A Claude skill that guides you, step by step, through planning your own AI command center for your business.</strong>
 </p>
 
 <p align="center">
@@ -18,7 +18,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/type-Claude%20Skill-8A2BE2.svg" alt="Claude Skill"/>
-  <img src="https://img.shields.io/badge/setup-no%20coding%20needed-success.svg" alt="No coding needed"/>
+  <img src="https://img.shields.io/badge/mode-guidance%20only-blue.svg" alt="Guidance only"/>
+  <img src="https://img.shields.io/badge/stack-agnostic-lightgrey.svg" alt="Stack agnostic"/>
   <img src="https://img.shields.io/badge/reference%20system-free%20%26%20open-brightgreen.svg" alt="Free reference system"/>
 </p>
 
@@ -26,9 +27,10 @@
 
 ## 🤔 What is this?
 
-This repo is a single **Claude skill** — a guided playbook you drop into your AI assistant. When you run it, the AI becomes a hands-on architect that walks you, phase by phase, through building your own **AI command center**: one chat or voice interface where you (or your team) type a request and one AI figures out which of your business systems to touch and does it.
+This repo is a single **Claude skill** — a guided playbook you drop into your AI assistant. When you run it, the AI becomes an architect and advisor that walks you, phase by phase, through planning your own **AI command center**: one chat or voice interface where you (or your team) type a request and one AI figures out which of your business systems to touch and does it.
 
-It doesn't hand you a finished product. It hands you the **thinking and the order of operations** so you can build your own version on whatever stack you like — no matter how technical you are.
+> **📐 It's a blueprint, not a builder.**
+> This skill deliberately writes **no code** and builds **nothing** — not in Claude Code, not in the Claude app. It gives you the **thinking, the principles, and the order of operations**, and leaves the *how* entirely up to you and the stack you choose. If you want something concrete to study or run today, that's what [ForgeChat](https://github.com/Forgemind-git/ForgeChat) is for.
 
 ## 🚀 How to use it
 
@@ -50,7 +52,7 @@ There are two ways, depending on how you work.
 2. Copy everything in it and paste it into a new chat.
 3. Say: *"Walk me through building my command center, one phase at a time."*
 
-## 🧭 What you'll build
+## 🧭 What you'll plan
 
 The skill takes you through four phases, in order:
 
